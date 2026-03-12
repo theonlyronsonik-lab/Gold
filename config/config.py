@@ -9,7 +9,7 @@ from datetime import time
 from enum import Enum
 
 # API Configuration (Free tiers)
-FINNHUB_API_KEY = os.getenv("FINNHUB_API_KEY", "YOUR_FINNHUB_KEY")
+FINNHUB_API_KEY = os.getenv("d143e9bb8b0c4d7487872fd699280bde")
 NEWS_API_KEY = os.getenv("NEWS_API_KEY", "YOUR_NEWSAPI_KEY")
 
 # Trading Instruments
